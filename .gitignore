@@ -1,0 +1,25 @@
+# Local credentials
+secrets.h
+
+# macOS
+.DS_Store
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# PlatformIO, if used locally
+.pio/
+
+# Editor and local metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
